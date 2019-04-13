@@ -1,5 +1,7 @@
 # Servlet with Auth
 
+App protected by simple authentication scheme (for learning purposes only!)
+
 ## Run Locally
 
 1. Run `mvn tomcat7:run`
